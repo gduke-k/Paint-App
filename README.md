@@ -26,5 +26,11 @@
 
 Once the app is running, you can draw on the canvas using your mouse. Use the toolbar at the left to select a brush size and color. This Program alos provide number of Brushes for your work. Colour selector with Basic colour are present.The program also remember the last two colours custom selected by user. It also provide features like Creating New File , Opening existing file , Clearing Screen , Saving File. 
 
+### Screenshot
+
+# <img src="https://github.com/user-attachments/assets/07b01161-18ce-4bde-a37b-58109a7b4eec" width="550">
+# <img src="https://github.com/user-attachments/assets/d36889df-a05a-41bb-90c3-b0464372e543" width="550">
+# <img src="https://github.com/user-attachments/assets/7fc9815b-f93a-4af7-a21a-efbae3bfae7d" width="550">
+
 ## Contributing
 We welcome contributions from anyone interested in improving this app. Please submit a pull request with your changes and we will review them as soon as possible.
